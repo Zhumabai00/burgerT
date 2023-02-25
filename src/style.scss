@@ -1,0 +1,22 @@
+::after,
+::before,
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	max-width: 1500px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+ul, li {
+	list-style-type: none;
+}
